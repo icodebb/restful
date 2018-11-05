@@ -30,3 +30,4 @@ RestAssured is a very powerful automation framework written in Java. It is desig
 ## Tools & Resources
 
 [JWT.io](https://jwt.io/)  
+[HTTP status codes](https://www.restapitutorial.com/httpstatuscodes.html)  
