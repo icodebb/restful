@@ -17,6 +17,10 @@ Postman is a good choice for API testing for those who don’t want to deal with
 * [RestAssured](http://rest-assured.io/)  
 RestAssured is a very powerful automation framework written in Java. It is designed to automate HTTP Requests – so REST APIs. It is was a big pro.  
 
+* [HttpMaster](https://www.httpmaster.net/)  
+
+* [RestSharp](http://restsharp.org/)  
+
 ## Trouble shooting
 
 ### token
@@ -29,5 +33,8 @@ RestAssured is a very powerful automation framework written in Java. It is desig
 
 ## Tools & Resources
 
+### Tools
 [JWT.io](https://jwt.io/)  
 [HTTP status codes](https://www.restapitutorial.com/httpstatuscodes.html)  
+
+[16 Open Source API Testing Tools For REST & SOAP Services](https://www.joecolantonio.com/12-open-source-api-testing-tools-rest-soap-services/)  
